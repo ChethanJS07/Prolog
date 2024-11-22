@@ -2,6 +2,9 @@
 
 A web-based system built with SWI-Prolog to check student eligibility for scholarships and exams based on attendance and CGPA.
 
+## Working
+![Images Screenshots]([https://example.com/features.png](https://drive.google.com/drive/folders/1kRHASOqzYJssZ-C9NAOD2GyvMFzECRy8?usp=sharing))
+
 ## Prerequisites
 
 1. Install SWI-Prolog:
